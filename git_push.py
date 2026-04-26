@@ -1,7 +1,20 @@
-import os
+import subprocess
+from datetime import datetime
 
-commit_message = "New audit block added"
+commit_message = f"Audit update - {datetime.utcnow()}"
 
-os.system("git add .")
-os.system(f'git commit -m "{commit_message}"')
-os.system("git push origin main")
+subprocess.run(["git", "add", "records.json"])
+
+subprocess.run([
+    "git",
+    "commit",
+    "-m",
+    commit_message
+])
+
+subprocess.run([
+    "git",
+    "push",
+    "origin",
+    "main"
+])
