@@ -138,5 +138,27 @@
         "created_at": "2026-05-12 16:08:52.029070",
         "previous_hash": "53811f12c2f867a6082a8733357d3006d1b84de34183c7a09fc1eeec68b81d7e",
         "current_hash": "d758531da35dfe0a975af5f9339da93501a6beb3f791138c7428547c82208e29"
+    },
+    {
+        "ref": 5,
+        "user_id": 8,
+        "title": "Exposed electrical wires creating public safety risk",
+        "category": "electrical ",
+        "ai_department": null,
+        "ai_confidence": null,
+        "ai_severity": null,
+        "ai_tags": [],
+        "is_urgent": false,
+        "status": "draft",
+        "assigned_to": null,
+        "lat": 23.23057166209039,
+        "lng": 77.40574710811612,
+        "address": "J - 55 , harshvardhan nagar , bhopal",
+        "pincode": "462003",
+        "internal_priority": 0.0,
+        "upvotes": 0,
+        "created_at": "2026-05-12 16:15:07.222700",
+        "previous_hash": "d758531da35dfe0a975af5f9339da93501a6beb3f791138c7428547c82208e29",
+        "current_hash": "8cd25796e13dba938b3dc107bdbf248440d96241d1fd6a37e302afe2e2a5146a"
     }
 ]
