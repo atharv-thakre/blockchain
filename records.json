@@ -74,5 +74,30 @@
         "created_at": "2026-05-14 04:44:44.166930",
         "previous_hash": "35b2f261bf7aa168673143ae4d8320e295746db7f746ad4994ff2ccb1efae63c",
         "current_hash": "853ca1380adb3be9a337aae4b8209e2652ba3ad5cdab1acb05f05022405a7556"
+    },
+    {
+        "ref": 9,
+        "user_id": 8,
+        "title": "Severely Damaged Road with Cracks and Potholes",
+        "category": "Road Repair & Maintenance",
+        "ai_department": "road_maintenance",
+        "ai_confidence": 0.98,
+        "ai_severity": "High",
+        "ai_tags": [
+            "pothole",
+            "road_crack"
+        ],
+        "is_urgent": true,
+        "status": "resolved",
+        "assigned_to": 2,
+        "lat": 23.253553300451042,
+        "lng": 77.52008874989933,
+        "address": "SARHK Farm house near raisen bhopal  ",
+        "pincode": "462022",
+        "internal_priority": 8.0,
+        "upvotes": 0,
+        "created_at": "2026-05-14 04:52:08.506466",
+        "previous_hash": "853ca1380adb3be9a337aae4b8209e2652ba3ad5cdab1acb05f05022405a7556",
+        "current_hash": "27f7519cd4d61f13a322ea6f1fd7acc03b458ed175912accfe6b0a034814c8db"
     }
 ]
