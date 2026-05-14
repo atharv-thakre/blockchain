@@ -187,5 +187,27 @@
         "created_at": "2026-05-14 05:48:04.065678",
         "previous_hash": "1897d51e11559f6ea0ebf079f904c4978f27d365b18223eb567ffae9666b8d89",
         "current_hash": "857b772bfb513660ce545d01c1ff0f4bd22f9d4c8b2366e9ffc9bfe9a86ab38a"
+    },
+    {
+        "ref": 21,
+        "user_id": 8,
+        "title": "Urban Road Flooding Causing Traffic Disruption",
+        "category": "Road & Drainage / Waterlogging",
+        "ai_department": null,
+        "ai_confidence": null,
+        "ai_severity": null,
+        "ai_tags": [],
+        "is_urgent": false,
+        "status": "draft",
+        "assigned_to": null,
+        "lat": 123.0,
+        "lng": 123.0,
+        "address": "harshvardhan nagar",
+        "pincode": "462003",
+        "internal_priority": 0.0,
+        "upvotes": 0,
+        "created_at": "2026-05-14 10:42:29.943235",
+        "previous_hash": "857b772bfb513660ce545d01c1ff0f4bd22f9d4c8b2366e9ffc9bfe9a86ab38a",
+        "current_hash": "e80bb456fb89acea4618a68295051b115ccf076639a0901f892775b60de740e9"
     }
 ]
