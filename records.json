@@ -165,5 +165,27 @@
         "created_at": "2026-05-14 05:35:00.030421",
         "previous_hash": "74000e99a14d83aaef930b1c1c0ccc6f5a1b610652b0d303d6ebe3c37526f97a",
         "current_hash": "1897d51e11559f6ea0ebf079f904c4978f27d365b18223eb567ffae9666b8d89"
+    },
+    {
+        "ref": 13,
+        "user_id": 8,
+        "title": "Unclean Surroundings Due to Poor Waste Disposal",
+        "category": "Sanitation and Waste Management",
+        "ai_department": null,
+        "ai_confidence": null,
+        "ai_severity": null,
+        "ai_tags": [],
+        "is_urgent": false,
+        "status": "draft",
+        "assigned_to": null,
+        "lat": 23.27216842908235,
+        "lng": 77.4224998261592,
+        "address": "gulabgang bhopal madhya pradesh",
+        "pincode": "462022",
+        "internal_priority": 0.0,
+        "upvotes": 0,
+        "created_at": "2026-05-14 05:48:04.065678",
+        "previous_hash": "1897d51e11559f6ea0ebf079f904c4978f27d365b18223eb567ffae9666b8d89",
+        "current_hash": "857b772bfb513660ce545d01c1ff0f4bd22f9d4c8b2366e9ffc9bfe9a86ab38a"
     }
 ]
