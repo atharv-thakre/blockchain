@@ -121,5 +121,27 @@
         "created_at": "2026-05-14 04:55:19.828831",
         "previous_hash": "27f7519cd4d61f13a322ea6f1fd7acc03b458ed175912accfe6b0a034814c8db",
         "current_hash": "804969569d017faaedf3d849f0f829e7191646c9591f344fa11fc5193e2a1e5b"
+    },
+    {
+        "ref": 11,
+        "user_id": 8,
+        "title": "Dangerous Overhead Wire Mess on Electric Poles",
+        "category": "Electricity / Cable & Wire Maintenance",
+        "ai_department": null,
+        "ai_confidence": null,
+        "ai_severity": null,
+        "ai_tags": [],
+        "is_urgent": false,
+        "status": "draft",
+        "assigned_to": null,
+        "lat": 23.276127000479267,
+        "lng": 77.41373095118213,
+        "address": "Resaldar Colony , Chhola Bhopal Madhya Pradesh",
+        "pincode": "462022",
+        "internal_priority": 0.0,
+        "upvotes": 0,
+        "created_at": "2026-05-14 05:08:03.720612",
+        "previous_hash": "804969569d017faaedf3d849f0f829e7191646c9591f344fa11fc5193e2a1e5b",
+        "current_hash": "74000e99a14d83aaef930b1c1c0ccc6f5a1b610652b0d303d6ebe3c37526f97a"
     }
 ]
